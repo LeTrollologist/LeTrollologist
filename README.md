@@ -12,7 +12,7 @@ through to the user-facing application.
 | Project | Description | Language |
 |---|---|---|
 | [Aurelia](https://github.com/LeTrollologist/Aurelia) | Local-first digital illustration and animation studio | Rust |
-| [Morrow](https://github.com/LeTrollologist/Morrow) | Systems programming language and compiler | Rust |
+| [Morrow](https://github.com/LeTrollologist/Morrow) | Systems programming language and compiler | Morrow |
 | [Voidworks](https://github.com/LeTrollologist/Voidworks) | Complex simulation engineering | C# |
 | [Statecraft](https://github.com/LeTrollologist/Statecraft) | Game inspection and simulation tooling | C# |
 | [Inkwell](https://github.com/LeTrollologist/Inkwell) | Local-first Markdown editor with optional AI assistance | Rust |
