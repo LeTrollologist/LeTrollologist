@@ -6,8 +6,6 @@ local-first desktop software, graphics, and simulation.
 I build software from the underlying engine and architecture
 through to the user-facing application.
 
-[Read the engineering case study](https://github.com/LeTrollologist/Aurelia/blob/main/PORTFOLIO.md) · [v3.13.0 release](https://github.com/LeTrollologist/Aurelia/releases/tag/v3.13.0)
-
 ## Current Projects
 
 | Project | Description | Language |
